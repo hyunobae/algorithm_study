@@ -1,6 +1,9 @@
 # 강민주 BOJ 1436 영화감독숌 풀이
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> minju
 ## 코드1
 ```python
 N = int(input())
@@ -62,9 +65,16 @@ while cnt>0:
 
         fnum += 1
 ```
+<<<<<<< HEAD
 
 
 ## 코드2
+=======
+별짓을 다했네...
+
+
+## 코드 2
+>>>>>>> minju
 ```python
 N = int(input())
 
@@ -77,4 +87,8 @@ while True:
             print(num)
             break
     num += 1
+<<<<<<< HEAD
+=======
+    
+>>>>>>> minju
 ```
