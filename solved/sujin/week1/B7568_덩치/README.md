@@ -1,4 +1,4 @@
-# 이수진 BOJ 7568 분해합 풀이
+# 이수진 BOJ 7568 덩치 풀이
 
 ```python
 def priority():
