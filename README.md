@@ -10,4 +10,4 @@
 
 |Week|Solved problem|Attendee|
 |:---:|:-----------:|:---:|
-|1|[1018](https://www.acmicpc.net/problem/1018) [2231](https://www.acmicpc.net/problem/2231) [2789](https://www.acmicpc.net/problem/2798) [7568](https://www.acmicpc.net/problem/7568) [1436](https://www.acmicpc.net/problem/1436)|hyuno|
+|1|[1018](https://www.acmicpc.net/problem/1018) [2231](https://www.acmicpc.net/problem/2231) [2789](https://www.acmicpc.net/problem/2798) [7568](https://www.acmicpc.net/problem/7568) [1436](https://www.acmicpc.net/problem/1436)|hyuno minju|
