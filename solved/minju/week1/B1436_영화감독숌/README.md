@@ -63,7 +63,6 @@ while cnt>0:
         fnum += 1
 ```
 
-
 ## 코드 2
 ```python
 N = int(input())
@@ -77,4 +76,5 @@ while True:
             print(num)
             break
     num += 1
+
 ```
