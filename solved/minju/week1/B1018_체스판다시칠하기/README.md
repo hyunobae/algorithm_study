@@ -43,6 +43,4 @@ for r in range(N-7):
         diff1_cnt.append(cnt1)
         diff2_cnt.append(cnt2)
         cnt1, cnt2 = 0, 0
-
-print(min(diff1_cnt) if min(diff1_cnt)<min(diff2_cnt) else min(diff2_cnt))   
 ```
