@@ -1,6 +1,5 @@
 import sys
 
-
 def check(arr):
     stack = []
     flag = True
