@@ -12,4 +12,4 @@
 |:---:|:-----------:|:---:|
 |1|[1018](https://www.acmicpc.net/problem/1018) [2231](https://www.acmicpc.net/problem/2231) [2789](https://www.acmicpc.net/problem/2798) [7568](https://www.acmicpc.net/problem/7568) [1436](https://www.acmicpc.net/problem/1436)|hyuno minju|
 |2|[1158](https://www.acmicpc.net/problem/1158) [1874](https://www.acmicpc.net/problem/1874) [2504](https://www.acmicpc.net/problem/2504)|hyuno minju sujin|
-|3|[1966]() [5430]() [11286]()|
+|3|[1966](https://www.acmicpc.net/problem/1966) [5430](https://www.acmicpc.net/problem/5430) [11286](https://www.acmicpc.net/problem/11286)|
