@@ -14,4 +14,4 @@
 |2|[1158](https://www.acmicpc.net/problem/1158) [1874](https://www.acmicpc.net/problem/1874) [2504](https://www.acmicpc.net/problem/2504)|hyuno minju sujin|
 |3|[1966](https://www.acmicpc.net/problem/1966) [5430](https://www.acmicpc.net/problem/5430) [11286](https://www.acmicpc.net/problem/11286)|hyuno minju|
 |4|[11725](https://www.acmicpc.net/problem/11725) [5639](https://www.acmicpc.net/problem/5639) [1967](https://www.acmicpc.net/problem/1967)||
-|5|[11508](https://www.acmicpc.net/problem/11508) [21758](https://www.acmicpc.net/problem/21758) [2285](https://www.acmicpc.net/problem/2285)||
+|5|[11508](https://www.acmicpc.net/problem/11508) [21758](https://www.acmicpc.net/problem/21758) [2285](https://www.acmicpc.net/problem/2285)|hyuno|
