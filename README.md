@@ -17,3 +17,4 @@
 |5|Greedy|[11508](https://www.acmicpc.net/problem/11508) [21758](https://www.acmicpc.net/problem/21758) [2285](https://www.acmicpc.net/problem/2285)|hyuno|
 |6|Dynamic Programming|[1463](https://www.acmicpc.net/problem/1463) [15486](https://www.acmicpc.net/problem/15486) [1106](https://www.acmicpc.net/problem/1106)|hyuno minju|
 |7|Dynamic Programming|[2839](https://www.acmicpc.net/problem/2839) [2579](https://www.acmicpc.net/problem/2579) [2225](https://www.acmicpc.net/problem/2225)|hyuno|
+|8|Implementation|[17413](https://www.acmicpc.net/problem/17413) [2615](https://www.acmicpc.net/problem/2615) [14719](https://www.acmicpc.net/problem/14719)|
